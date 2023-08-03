@@ -1,4 +1,5 @@
 # ecommerce
 Cognotiv Test
 
-1. go run main.go
+1. Run Schema in Mysql / PostgreSql with Query
+2. go run main.go 
